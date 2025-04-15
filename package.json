@@ -18,5 +18,6 @@
     "url": "https://github.com/devforth/adminforth-microsoft-oauth-adapter.git"
   },
   "dependencies": {
+    "typescript": "^5.8.3"
   }
 }
